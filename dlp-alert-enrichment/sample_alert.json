@@ -1,0 +1,10 @@
+{
+  "alert_id": "DLP-2024-11-001",
+  "timestamp": "2024-11-18T14:30:00Z",
+  "user": "bmiller@company.com",
+  "action": "email_external",
+  "data_type": "PCI_CREDIT_CARD",
+  "destination": "external_recipient@vendor.com",
+  "file_name": "Q4_Financial_Report.xlsx",
+  "matched_rules": ["PCI-EMAIL-001", "SENSITIVE-DATA-002"]
+}

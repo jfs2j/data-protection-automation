@@ -1,0 +1,14 @@
+# Python dependencies for data protection automation tools
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Data processing (if you expand these scripts)
+# pandas>=2.0.0
+# numpy>=1.24.0
+
+# For future API integrations
+# requests>=2.31.0
+# boto3>=1.28.0  # AWS SDK

@@ -1,0 +1,4 @@
+customer_id,name,email,phone,credit_card,ssn,notes
+1001,John Smith,jsmith@email.com,555-123-4567,4532-1234-5678-9010,123-45-6789,CONFIDENTIAL customer record
+1002,Jane Doe,jdoe@email.com,555-987-6543,5425-2334-5566-7788,987-65-4321,Standard account
+1003,Bob Wilson,bwilson@email.com,555-456-7890,,,Public information only
